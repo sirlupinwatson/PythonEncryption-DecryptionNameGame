@@ -8,7 +8,7 @@ https://code.visualstudio.com/
 2- *Then install the Python extension*
 ![PythonInstallation2](https://user-images.githubusercontent.com/55941045/138540105-3f652706-a6ff-4fa1-844d-0cef54604e3e.png)
 
-3- * From VIsual Studion Code create a new file and Copy/Paste the code from the file Encrypt&DecryptYourNameWithPython.py* and save it!
+3- *From VIsual Studion Code create a new file and Copy/Paste the code from the file Encrypt&DecryptYourNameWithPython.py and save it!*
 
 4- *Hit Left Shift + Enter to run the game and try different encryption!*
 
